@@ -1,0 +1,5 @@
+format: jb-book
+root: intro
+chapters:
+  - file: test-widgets-blog-post
+    title: Mon Titre Test Depuis le Notebook
